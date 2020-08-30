@@ -1,0 +1,12 @@
+# www.robotstxt.org/
+# https://support.google.com/webmasters/answer/6062596?hl=es
+
+
+# Permitir arrastrarse de todo contenido a los buscadores
+User-agent: *
+Disallow:
+
+
+# Decide que páginas puede rastrear Google
+# https://support.google.com/webmasters/answer/183668?hl=es
+Sitemap: http://www.example.com/sitemap.xml

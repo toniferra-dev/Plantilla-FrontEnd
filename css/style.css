@@ -5,8 +5,8 @@
 /* Tipografía */
 @font-face {
     font-family: "";
-    src: url("") format("woof2"),
-         url("") format("woof");
+    src: url("") format("woff2"),
+         url("") format("woff");
 }
 
 /* ******************************** */
